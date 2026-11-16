@@ -50,3 +50,4 @@ pws
 pwd
 ls --color=auto
 cd ..
+ls --color=auto
