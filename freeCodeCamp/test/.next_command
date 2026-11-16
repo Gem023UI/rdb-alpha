@@ -123,3 +123,4 @@ touch index.html
 touch styles.css
 .s
 ls --color=auto
+touch index.js
