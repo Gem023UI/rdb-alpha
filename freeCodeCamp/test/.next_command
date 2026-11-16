@@ -121,3 +121,5 @@ ls --color=auto
 echo hello website
 touch index.html
 touch styles.css
+.s
+ls --color=auto
