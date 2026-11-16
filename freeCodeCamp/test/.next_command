@@ -124,3 +124,4 @@ touch styles.css
 .s
 ls --color=auto
 touch index.js
+touch .gitignore
