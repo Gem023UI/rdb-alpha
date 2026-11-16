@@ -49,3 +49,4 @@ ls --color=auto
 pws
 pwd
 ls --color=auto
+cd ..
