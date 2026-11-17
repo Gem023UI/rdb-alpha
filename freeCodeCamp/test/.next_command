@@ -379,3 +379,4 @@ find -name client/assets/fonts
 find -name client/assets/fonts/lato-light.ttf
 find -name lato-light.ttf
 find
+rm --help
