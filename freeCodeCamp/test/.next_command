@@ -297,3 +297,7 @@ ls --color=auto
 cd website
 ls --color=auto
 find
+ls --color=auto
+cd clilent
+cd cliet
+cd client
