@@ -359,3 +359,5 @@ find -name roboto-light.woff
 rm roboto-light.woff
 ls --color=auto
 touch client/assets/fonts/roboto-light.woff
+find
+find client/assets/fonts
