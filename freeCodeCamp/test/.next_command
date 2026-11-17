@@ -363,3 +363,5 @@ find
 find client/assets/fonts
 touch client/assets/fonts/lato-bold.woff
 touch client/assets/fonts/lato-bold.ttf
+rm client/assets/fonts/lato-bold.woff
+touch client/assets/fonts/lato-light.ttf
