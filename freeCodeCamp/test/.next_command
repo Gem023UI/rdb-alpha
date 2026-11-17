@@ -365,3 +365,17 @@ touch client/assets/fonts/lato-bold.woff
 touch client/assets/fonts/lato-bold.ttf
 rm client/assets/fonts/lato-bold.woff
 touch client/assets/fonts/lato-light.ttf
+ls --color=auto
+find client/assets/fonts
+clear
+find client/assets/fonts
+cd ..
+cd website
+find client/assets/fonts
+find client/assets
+find client
+client/assets/fonts
+find -name client/assets/fonts
+find -name client/assets/fonts/lato-light.ttf
+find -name lato-light.ttf
+find
