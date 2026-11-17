@@ -404,3 +404,8 @@ mv website website-boilerplate
 ls --color=auto
 copy --help
 cp --help
+ls --color=auto
+mkdir toms-website
+ls --color=auto
+cp -r website-boilderplate toms-website
+cp -r website-boilerplate toms-website
