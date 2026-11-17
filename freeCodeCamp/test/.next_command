@@ -301,3 +301,4 @@ ls --color=auto
 cd clilent
 cd cliet
 cd client
+mkdir assets
