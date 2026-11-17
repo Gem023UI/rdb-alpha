@@ -322,3 +322,6 @@ find header.png
 find -name header.png
 find -name footer.jpg
 find -name footer.jpeg
+__vsc_prompt_cmd_original
+mv footer.jpeg client/assets/images
+mv images/footer.jpeg client/assets/images
