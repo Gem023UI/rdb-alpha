@@ -348,3 +348,7 @@ find -name CodeRoad.svg
 mv CodeRoad.svg client/assets/icons
 mv freeCodeCamp.svg client/assets/icons
 find
+find assets
+find -name assets
+mkdir fonts client/assets
+mkdir client/assets/fonts
