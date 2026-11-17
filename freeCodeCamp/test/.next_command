@@ -380,3 +380,5 @@ find -name client/assets/fonts/lato-light.ttf
 find -name lato-light.ttf
 find
 rm --help
+ls --color=auto
+rm -r fonts
